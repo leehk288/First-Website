@@ -1,0 +1,47 @@
+main img {
+    height: 700px;    
+}
+
+body {
+ font-family: 'Ubuntu', sans-serif;
+ text-align: center;
+ list-style: none;
+ color:white;
+ 
+}
+
+h1 {
+   font-size: 70px; 
+}
+
+p {
+   font-size: 20px; 
+   font-weight: bold;
+}
+
+
+ul {
+    text-align: center;
+    list-style-type: none;
+   
+  }
+
+  ol {
+    text-align: center;
+    list-style-type: none;
+  }
+
+  a {
+      font-size: 30px;
+      color: navy;
+  }
+
+  html {
+      background: url(images/38548.jpg) no-repeat center center fixed;
+      background-size: cover;
+  }
+
+  footer {
+      font-size: 20px
+  }
+  
